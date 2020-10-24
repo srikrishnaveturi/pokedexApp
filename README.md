@@ -1,16 +1,15 @@
 # pokedex
 
-A new Flutter application.
+This is for the real pokemon lovers!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The coolest piece of technology in the show pokemon was the "pokedex". What does this do?
 
-A few resources to get you started if this is your first Flutter project:
+Whenever you saw a pokemon which you hadn't seen before or have no information about, you could simple whip out the pokedex and show it the pokemon to get all the info you need on the new pokemon you just found!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+i've implemented this using a cnn(trained from teachable learning) and used this tflite model inside my app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So, whenever you see a new pokemnon, just open up the app, take a photo of the pokemon and it'll give you all the information it has.
+
+Guess what! it's totally offline :)
